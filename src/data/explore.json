@@ -10,7 +10,7 @@
       "Buy tickets in advance to avoid long lines.",
       "Best lighting inside is 2-3 hours before sunset (stained glass)."
     ],
-    "photos": ["/assets/sagrada1.jpg", "/assets/sagrada2.jpg", "/assets/sagrada3.jpg"]
+    "photos": ["assets/sagrada1.jpg", "assets/sagrada2.jpg", "assets/sagrada3.jpg"]
   },
   {
     "location": "Park Güell",
@@ -20,7 +20,7 @@
     "duration": "1 to 1.5 hours",
     "cost": "€10",
     "notes": ["Buy tickets in advance, limited each day.", "Morning is best for lighting and crowds"],
-    "photos": ["/assets/parkguell1.jpg", "/assets/parkguell2.jpg", "/assets/parkguell3.jpg"]
+    "photos": ["assets/parkguell1.jpg", "assets/parkguell2.jpg", "assets/parkguell3.jpg"]
   },
   {
     "location": "Casa Batlló",
@@ -36,7 +36,7 @@
       "The immersive audio-visual guide (smartphone/tablet) is included with all tickets.",
       "Casa Batlló is smaller than La Pedrera — plan less time inside."
     ],
-    "photos": ["/assets/casabatllo1.jpg", "/assets/casabatllo2.jpg", "/assets/casabatllo3.jpg"]
+    "photos": ["assets/casabatllo1.jpg", "assets/casabatllo2.jpg", "assets/casabatllo3.jpg"]
   },
   {
     "location": "La Pedrera - Casa Milà",
@@ -50,7 +50,7 @@
       "Don’t miss the rooftop at sunset — great for photos.",
       "The night tour includes a light projection show on the roof."
     ],
-    "photos": ["/assets/lapedrera1.jpg", "/assets/lapedrera2.jpg", "/assets/lapedrera3.jpg", "/assets/lapedrera4.jpg"]
+    "photos": ["assets/lapedrera1.jpg", "assets/lapedrera2.jpg", "assets/lapedrera3.jpg", "assets/lapedrera4.jpg"]
   },
   {
     "location": "MNAC (Museu Nacional d’Art de Catalunya) + Magic Fountain of Montjuïc",
@@ -66,7 +66,7 @@
       "Best fountain views are from the Palau Nacional steps or near Plaça d'Espanya.",
       "Arrive early to secure a good spot for photos or seating on the steps."
     ],
-    "photos": ["/assets/mnac1.jpg", "/assets/mnac2.jpg", "/assets/magicfountain1.jpg", "/assets/magicfountain2.jpg"]
+    "photos": ["assets/mnac1.jpg", "assets/mnac2.jpg", "assets/magicfountain1.jpg", "assets/magicfountain2.jpg"]
   },
   {
     "location": "Mercat de la Boqueria",
@@ -82,7 +82,7 @@
       "Avoid dining at stalls closest to the entrance — better value deeper inside.",
       "Closed on Sundays — plan accordingly."
     ],
-    "photos": ["/assets/boqueria1.jpg", "/assets/boqueria2.jpg", "/assets/boqueria3.jpg"]
+    "photos": ["assets/boqueria1.jpg", "assets/boqueria2.jpg", "assets/boqueria3.jpg"]
   },
   {
     "location": "Arc de Triomf + Ciutadella Park",
@@ -96,7 +96,7 @@
       "Great spot for golden hour photos, especially at the arch and lake.",
       "The Cascada Monumental fountain is a must-see — inspired partly by Rome’s Trevi Fountain."
     ],
-    "photos": ["/assets/arcdetriomf1.jpg", "/assets/ciutadella1.jpg", "/assets/ciutadella2.jpg"]
+    "photos": ["assets/arcdetriomf1.jpg", "assets/ciutadella1.jpg", "assets/ciutadella2.jpg"]
   },
   {
     "location": "Gothic Quarter (Barri Gòtic)",
@@ -112,11 +112,11 @@
       "Great area for photography, tapas, and souvenir shopping."
     ],
     "photos": [
-      "/assets/gothic1.jpg",
-      "/assets/gothic2.jpg",
-      "/assets/gothic3.jpg",
-      "/assets/gothic4.jpg",
-      "/assets/gothic5.jpg"
+      "assets/gothic1.jpg",
+      "assets/gothic2.jpg",
+      "assets/gothic3.jpg",
+      "assets/gothic4.jpg",
+      "assets/gothic5.jpg"
     ]
   },
   {
@@ -133,7 +133,7 @@
       "Located in El Born, so it's easy to combine with lunch or tapas nearby.",
       "Don’t expect Guernica — that’s in Madrid."
     ],
-    "photos": ["/assets/picasso1.jpg", "/assets/picasso2.jpg"]
+    "photos": ["assets/picasso1.jpg", "assets/picasso2.jpg"]
   },
   {
     "location": "Montjuïc Castle",
@@ -149,7 +149,7 @@
       "Great combined with a visit to MNAC or Magic Fountain before or after.",
       "Bring water — there’s not much shade and limited refreshments at the top."
     ],
-    "photos": ["/assets/montjuiccastle1.jpg"]
+    "photos": ["assets/montjuiccastle1.jpg"]
   },
   {
     "location": "Pacha Barcelona",
@@ -164,6 +164,6 @@
       "Popular with international tourists.",
       "The club has multiple rooms with different music styles (house, reggaeton, electronic)."
     ],
-    "photos": ["/assets/pacha1.jpg", "/assets/pacha2.jpg"]
+    "photos": ["assets/pacha1.jpg", "assets/pacha2.jpg"]
   }
 ]

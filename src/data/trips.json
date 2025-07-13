@@ -11,12 +11,7 @@
       "Cable car offers scenic ascent — avoid if afraid of heights.",
       "Arrive early to beat the crowds and fog."
     ],
-    "photos": [
-      "/assets/montserrat1.jpg",
-      "/assets/montserrat2.jpg",
-      "/assets/montserrat3.jpg",
-      "/assets/montserrat4.jpg"
-    ]
+    "photos": ["assets/montserrat1.jpg", "assets/montserrat2.jpg", "assets/montserrat3.jpg", "assets/montserrat4.jpg"]
   },
   {
     "destination": "Tarragona",
@@ -35,7 +30,7 @@
       "Museum pass grants access to multiple Roman sites.",
       "Great for history lovers and photographers."
     ],
-    "photos": ["/assets/tarragona1.jpg", "/assets/tarragona2.jpg"]
+    "photos": ["assets/tarragona1.jpg", "assets/tarragona2.jpg"]
   },
   {
     "destination": "Girona",
@@ -54,7 +49,7 @@
       "Popular day trip — can get crowded midday.",
       "Combine with Figueres for Dali Museum if staying overnight."
     ],
-    "photos": ["/assets/girona1.jpg", "/assets/girona2.jpg", "/assets/girona3.jpg"]
+    "photos": ["assets/girona1.jpg", "assets/girona2.jpg", "assets/girona3.jpg"]
   },
   {
     "destination": "Tossa de Mar",
@@ -73,7 +68,7 @@
       "Great combination of beach and history.",
       "Good spot for lunch and souvenir shopping."
     ],
-    "photos": ["/assets/tossa1.jpg", "/assets/tossa2.jpg"]
+    "photos": ["assets/tossa1.jpg", "assets/tossa2.jpg"]
   },
   {
     "destination": "Calella de Palafrugell + Llafranc",
@@ -94,6 +89,6 @@
       "Ideal for couples, photographers, and relaxed travelers.",
       "Great area to stay overnight if you want peace and views."
     ],
-    "photos": ["/assets/calella1.jpg", "/assets/llafranc1.jpg"]
+    "photos": ["assets/calella1.jpg", "assets/llafranc1.jpg"]
   }
 ]

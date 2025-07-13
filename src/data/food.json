@@ -2,7 +2,7 @@
   {
     "name": "Paella",
     "description": "A fragrant rice‑based dish from Valencia, often topped with seafood like shrimp, squid, mussels, and flavored with paprika, saffron, stock, garlic, tomatoes, and wine.",
-    "image": "/assets/paella.jpg",
+    "image": "assets/paella.jpg",
     "type": "food",
     "origin": "Valencia, Spain",
     "whenToEat": "Lunch / Dinner",
@@ -16,7 +16,7 @@
   {
     "name": "Croquetas",
     "description": "Creamy breadcrumbs‑coated bites made with béchamel mixed with ham, potato, or shrimp—served as tapas or larger rations.",
-    "image": "/assets/croquetas.jpg",
+    "image": "assets/croquetas.jpg",
     "type": "food",
     "origin": "Spanish (common throughout Spain)",
     "whenToEat": "Tapas / Appetizer",
@@ -30,7 +30,7 @@
   {
     "name": "Fideuà",
     "description": "A seafood dish similar to paella, but made with short vermicelli-like noodles instead of rice. Typically cooked in a wide pan with cuttlefish, shrimp, mussels, and squid ink or fish stock.",
-    "image": "/assets/fideua.jpg",
+    "image": "assets/fideua.jpg",
     "type": "food",
     "origin": "Valencia, Spain",
     "whenToEat": "Lunch / Dinner",
@@ -45,7 +45,7 @@
   {
     "name": "Patatas Bravas",
     "description": "Fried potato cubes topped with spicy bravas tomato sauce and aioli—crispy, fluffy, and umami‑packed.",
-    "image": "/assets/patatasbravas.jpg",
+    "image": "assets/patatasbravas.jpg",
     "type": "food",
     "origin": "Spanish (common in Catalonia)",
     "whenToEat": "Tapas / Appetizer",
@@ -59,7 +59,7 @@
   {
     "name": "Esqueixada de Bacalao",
     "description": "A refreshing Catalan salad made with shredded salt cod, tomatoes, onions, olives, and drizzled with olive oil. Often garnished with red or green peppers and sometimes hard-boiled egg.",
-    "image": "/assets/esqueixadadebacalao.jpg",
+    "image": "assets/esqueixadadebacalao.jpg",
     "type": "food",
     "origin": "Catalonia, Spain",
     "whenToEat": "Lunch / Starter",
@@ -75,7 +75,7 @@
   {
     "name": "Jamón Ibérico",
     "description": "Thinly‑sliced, dry‑cured Iberian ham from acorn‑fed black pigs—served as a classic charcuterie staple.",
-    "image": "/assets/jamoniberico.jpg",
+    "image": "assets/jamoniberico.jpg",
     "type": "food",
     "origin": "Iberian Peninsula, Spain",
     "whenToEat": "Tapas / Starter",
@@ -86,7 +86,7 @@
   {
     "name": "Bomba",
     "description": "A Barceloneta specialty: deep‑fried potato and meat ball, often spicy—and perfect for tapas.",
-    "image": "/assets/bomba.jpg",
+    "image": "assets/bomba.jpg",
     "type": "food",
     "origin": "Catalan (Barceloneta)",
     "whenToEat": "Tapas",
@@ -97,7 +97,7 @@
   {
     "name": "Gazpacho",
     "description": "An ice‑cold soup made with blended tomatoes, peppers, garlic, vinegar, olive oil—and sometimes bread—for a refreshing summer starter.",
-    "image": "/assets/gazpacho.jpg",
+    "image": "assets/gazpacho.jpg",
     "type": "food",
     "origin": "Andalusia, Spain",
     "whenToEat": "Start / Lunch",
@@ -108,7 +108,7 @@
   {
     "name": "Escalivada",
     "description": "A Catalan roasted vegetable dish with eggplant, bell peppers, and onions drizzled in olive oil—served warm or cold with bread.",
-    "image": "/assets/escalivada.jpg",
+    "image": "assets/escalivada.jpg",
     "type": "food",
     "origin": "Catalonia, Spain",
     "whenToEat": "Tapas / Side dish",
@@ -119,7 +119,7 @@
   {
     "name": "Spanish Cheese Platter",
     "description": "A selection of Spanish cheeses—Manchego, Idiazábal, Mahón, Roncal—served with accompaniments like nuts or honey.",
-    "image": "/assets/spanishcheese.jpg",
+    "image": "assets/spanishcheese.jpg",
     "type": "food",
     "origin": "Spain",
     "whenToEat": "Starter / Tapas",
@@ -130,7 +130,7 @@
   {
     "name": "Pa amb Tomaquet",
     "description": "Toasted bread rubbed with garlic and ripe tomato, drizzled with olive oil and salt; a simple Catalan classic.",
-    "image": "/assets/paambtomquet.jpg",
+    "image": "assets/paambtomquet.jpg",
     "type": "food",
     "origin": "Catalonia, Spain",
     "whenToEat": "Side / Tapas",
@@ -141,7 +141,7 @@
   {
     "name": "Padrón Peppers",
     "description": "Small green peppers blistered in oil and sprinkled with salt—most are mild, but occasionally one surprises with heat.",
-    "image": "/assets/padronpeppers.jpg",
+    "image": "assets/padronpeppers.jpg",
     "type": "food",
     "origin": "Galicia, Spain",
     "whenToEat": "Tapas / Snack",
@@ -152,7 +152,7 @@
   {
     "name": "Esqueixada",
     "description": "A Catalan salt‑cod salad torn by hand, mixed with tomatoes, onions, olives, and olive oil—light and zesty.",
-    "image": "/assets/esqueixada.jpg",
+    "image": "assets/esqueixada.jpg",
     "type": "food",
     "origin": "Catalonia, Spain",
     "whenToEat": "Tapas / Starter",
@@ -163,7 +163,7 @@
   {
     "name": "Tortilla de Patatas",
     "description": "A thick Spanish omelet made with potatoes (and sometimes onions)—comforting and a common staple across Spain.",
-    "image": "/assets/tortilladepatatas.jpg",
+    "image": "assets/tortilladepatatas.jpg",
     "type": "food",
     "origin": "Spanish",
     "whenToEat": "Breakfast / Brunch / Tapas",
@@ -174,7 +174,7 @@
   {
     "name": "Arròs Negre",
     "description": "A savory black rice dish cooked with squid or cuttlefish and colored with their ink, giving it a deep umami flavor and striking appearance.",
-    "image": "/assets/arrosnegre.jpg",
+    "image": "assets/arrosnegre.jpg",
     "type": "food",
     "origin": "Catalonia and Valencia, Spain",
     "whenToEat": "Lunch or dinner",
@@ -189,7 +189,7 @@
   {
     "name": "Chipirones",
     "description": "Small squid, typically grilled or fried, served whole and often dressed simply with olive oil, garlic, and parsley. A popular tapa or seafood dish in coastal Spain.",
-    "image": "/assets/chipirones.jpg",
+    "image": "assets/chipirones.jpg",
     "type": "food",
     "origin": "Spanish coastal regions",
     "whenToEat": "Lunch / Dinner",
@@ -204,7 +204,7 @@
   {
     "name": "Chorizo",
     "description": "A cured or semi-cured pork sausage seasoned with smoked paprika and garlic, known for its deep red color and bold, smoky flavor. Commonly sliced and served on its own or incorporated into a variety of Spanish dishes.",
-    "image": "/assets/chorizo.jpg",
+    "image": "assets/chorizo.jpg",
     "type": "food",
     "origin": "Spain",
     "whenToEat": "Any meal; common in tapas and stews",
@@ -219,7 +219,7 @@
   {
     "name": "Crema Catalana",
     "description": "A traditional Catalan dessert similar to crème brûlée, made with milk, egg yolks, sugar, and flavored with lemon zest and cinnamon. It features a caramelized sugar crust on top.",
-    "image": "/assets/cremacatalana.jpg",
+    "image": "assets/cremacatalana.jpg",
     "type": "dessert",
     "origin": "Catalonia, Spain",
     "whenToEat": "Dessert",
@@ -234,7 +234,7 @@
   {
     "name": "Churros",
     "description": "Fried dough pastries, often sprinkled with sugar and served with a thick hot chocolate for dipping. Popular as a breakfast or late-night treat.",
-    "image": "/assets/churros.jpg",
+    "image": "assets/churros.jpg",
     "type": "food",
     "origin": "Spain",
     "whenToEat": "Breakfast, dessert, or late-night snack",
@@ -250,7 +250,7 @@
   {
     "name": "Mel i Mató",
     "description": "A simple Catalan dessert made of soft unsalted cheese (mató) topped with honey. Light, creamy, and traditional.",
-    "image": "/assets/melimato.jpg",
+    "image": "assets/melimato.jpg",
     "type": "dessert",
     "origin": "Catalonia, Spain",
     "whenToEat": "Dessert",
@@ -265,7 +265,7 @@
   {
     "name": "Flan",
     "description": "A caramel custard dessert made with eggs, milk, and sugar, topped with a layer of soft caramel. Found throughout Spain.",
-    "image": "/assets/flan.jpg",
+    "image": "assets/flan.jpg",
     "type": "dessert",
     "origin": "Spain",
     "whenToEat": "Dessert",
@@ -280,7 +280,7 @@
   {
     "name": "Ensaimada",
     "description": "A soft, coiled pastry dusted with powdered sugar, originally from Mallorca but found in Catalonia. Often filled with cream, custard, or pumpkin jam.",
-    "image": "/assets/ensaimada.jpg",
+    "image": "assets/ensaimada.jpg",
     "type": "dessert",
     "origin": "Balearic Islands (popular in Catalonia)",
     "whenToEat": "Breakfast / Dessert",
@@ -295,7 +295,7 @@
   {
     "name": "Cava",
     "description": "A sparkling wine from Catalonia, made using traditional methods similar to Champagne. It is known for its fine bubbles and balanced flavor, ranging from dry to sweet.",
-    "image": "/assets/cava.jpg",
+    "image": "assets/cava.jpg",
     "type": "drink",
     "origin": "Catalonia, Spain",
     "whenToEat": "Aperitif, celebrations, or with meals",
@@ -311,7 +311,7 @@
   {
     "name": "Sangria",
     "description": "A popular Spanish punch made with red wine, chopped fruit (like oranges and apples), orange juice, and a splash of brandy or soda water.",
-    "image": "/assets/sangria.jpg",
+    "image": "assets/sangria.jpg",
     "type": "drink",
     "origin": "Spain",
     "whenToEat": "Afternoon or evening (especially summer)",
@@ -326,7 +326,7 @@
   {
     "name": "Orxata (Horchata de Chufa)",
     "description": "A sweet, milky drink made from soaked and ground tiger nuts, served chilled. Especially popular in Valencia and Catalonia during summer.",
-    "image": "/assets/orxata.jpg",
+    "image": "assets/orxata.jpg",
     "type": "drink",
     "origin": "Valencia, Spain",
     "whenToEat": "Snack or afternoon refreshment",
@@ -341,7 +341,7 @@
   {
     "name": "Clara",
     "description": "A refreshing mix of beer and lemon soda (like Fanta Limón), popular as a light, summery alternative to straight beer.",
-    "image": "/assets/clara.jpg",
+    "image": "assets/clara.jpg",
     "type": "drink",
     "origin": "Spain",
     "whenToEat": "Lunch or afternoon drink",
@@ -356,7 +356,7 @@
   {
     "name": "Carajillo",
     "description": "A bold mix of espresso coffee and liquor (typically brandy or rum), served hot. A classic pick-me-up drink in Spain.",
-    "image": "/assets/carajillo.jpg",
+    "image": "assets/carajillo.jpg",
     "type": "drink",
     "origin": "Spain",
     "whenToEat": "After meals or as a digestif",
@@ -371,7 +371,7 @@
   {
     "name": "Vermouth (Vermut)",
     "description": "An aromatized, fortified wine infused with herbs and spices. Typically served over ice with an olive or orange slice, often with a splash of soda.",
-    "image": "/assets/vermouth.jpg",
+    "image": "assets/vermouth.jpg",
     "type": "drink",
     "origin": "Catalonia, Spain (also popular in Italy)",
     "whenToEat": "Aperitif before lunch",
@@ -386,7 +386,7 @@
   {
     "name": "Jerez Cocktail (Sherry Cocktail)",
     "description": "A cocktail made from dry or sweet sherry (Jerez wine), often mixed with orange bitters, citrus zest, or other ingredients to enhance its nutty character.",
-    "image": "/assets/jerezcocktail.jpg",
+    "image": "assets/jerezcocktail.jpg",
     "type": "drink",
     "origin": "Andalusia, Spain",
     "whenToEat": "Aperitif or evening cocktail",
@@ -401,7 +401,7 @@
   {
     "name": "Orujo",
     "description": "A strong pomace brandy made by distilling grape skins, stems, and seeds left over from winemaking. Served as a digestif, often chilled.",
-    "image": "/assets/orujo.jpg",
+    "image": "assets/orujo.jpg",
     "type": "drink",
     "origin": "Galicia, Spain",
     "whenToEat": "After meals (digestif)",
