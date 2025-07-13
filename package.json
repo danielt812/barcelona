@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "private": true,
+  "homepage": "https://danielt812.github.io/barcelona/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
