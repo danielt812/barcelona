@@ -16,23 +16,28 @@ export function Root() {
   const theme = getTheme(mode);
 
   // Router must be created inside so we can pass props to Layout
-  const router = createBrowserRouter([
+  const router = createBrowserRouter(
+    [
+      {
+        path: "/",
+        element: (
+          <Layout
+            mode={mode}
+            setMode={setMode}
+          />
+        ),
+        children: [
+          { index: true, element: <App /> },
+          { path: "explore", element: <Explore /> },
+          { path: "food", element: <Food /> },
+          { path: "trips", element: <Trips /> },
+        ],
+      },
+    ],
     {
-      path: "/",
-      element: (
-        <Layout
-          mode={mode}
-          setMode={setMode}
-        />
-      ),
-      children: [
-        { index: true, element: <App /> },
-        { path: "explore", element: <Explore /> },
-        { path: "food", element: <Food /> },
-        { path: "trips", element: <Trips /> },
-      ],
-    },
-  ]);
+      basename: "/barcelona",
+    }
+  );
 
   return (
     <StrictMode>
