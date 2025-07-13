@@ -7,18 +7,28 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Runtime
 *.local
 
-# Editor directories and files
+# Build output
+dist/
+dist-ssr/
+*.tsbuildinfo
+
+# Dependency directories
+node_modules/
+
+# Editor settings
 .vscode/*
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# GitHub Pages artifact (optional, if committing built site to a branch like gh-pages)
+# Uncomment if you don't want the built site committed
+# gh-pages/
