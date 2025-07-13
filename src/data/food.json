@@ -235,7 +235,7 @@
     "name": "Churros",
     "description": "Fried dough pastries, often sprinkled with sugar and served with a thick hot chocolate for dipping. Popular as a breakfast or late-night treat.",
     "image": "assets/churros.jpg",
-    "type": "food",
+    "type": "dessert",
     "origin": "Spain",
     "whenToEat": "Breakfast, dessert, or late-night snack",
     "servedAt": ["Churrerías", "Cafés", "Street vendors"],
