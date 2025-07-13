@@ -1,0 +1,169 @@
+[
+  {
+    "location": "Sagrada Familia",
+    "neighborhood": "Eixample",
+    "description": "An iconic basilica designed by Antoni Gaudí, known for its unique architecture and long construction timeline.",
+    "hours": "9:00 AM – 8:00 PM",
+    "duration": "1.5 to 2 hours",
+    "cost": "€26",
+    "notes": [
+      "Buy tickets in advance to avoid long lines.",
+      "Best lighting inside is 2-3 hours before sunset (stained glass)."
+    ],
+    "photos": ["/assets/sagrada1.jpg", "/assets/sagrada2.jpg", "/assets/sagrada3.jpg"]
+  },
+  {
+    "location": "Park Güell",
+    "neighborhood": "Gràcia",
+    "description": "A vibrant and whimsical park designed by Antoni Gaudí featuring colorful mosaics, serpentine benches, and panoramic views of Barcelona.",
+    "hours": "9:30 AM – 7:30 PM",
+    "duration": "1 to 1.5 hours",
+    "cost": "€10",
+    "notes": ["Buy tickets in advance, limited each day.", "Morning is best for lighting and crowds"],
+    "photos": ["/assets/parkguell1.jpg", "/assets/parkguell2.jpg", "/assets/parkguell3.jpg"]
+  },
+  {
+    "location": "Casa Batlló",
+    "neighborhood": "Eixample",
+    "description": "One of Gaudí’s most colorful and imaginative works, Casa Batlló is a remodeled modernist building with a dragon-scale roof, organic shapes, and a vibrant interior. It’s considered a masterpiece of Catalan modernism.",
+    "hours": "9:00 AM – 8:00 PM",
+    "duration": "1 to 1.5 hours",
+    "cost": "€29–€39 depending on ticket type",
+    "notes": [
+      "Book online — premium tickets include fast track and access to the Gaudí Dome.",
+      "Go early in the morning or late evening to avoid heavy crowds.",
+      "Don’t miss the rooftop with its colorful chimneys and dragon-back design.",
+      "The immersive audio-visual guide (smartphone/tablet) is included with all tickets.",
+      "Casa Batlló is smaller than La Pedrera — plan less time inside."
+    ],
+    "photos": ["/assets/casabatllo1.jpg", "/assets/casabatllo2.jpg", "/assets/casabatllo3.jpg"]
+  },
+  {
+    "location": "La Pedrera - Casa Milà",
+    "neighborhood": "Eixample",
+    "description": "A modernist building designed by Antoni Gaudí, known for its undulating stone facade and surreal rooftop chimneys. A UNESCO World Heritage Site and one of the most iconic buildings in Barcelona.",
+    "hours": "9:00 AM – 8:30 PM",
+    "duration": "1 to 1.5 hours",
+    "cost": "€25",
+    "notes": [
+      "Book tickets online to skip the line.",
+      "Don’t miss the rooftop at sunset — great for photos.",
+      "The night tour includes a light projection show on the roof."
+    ],
+    "photos": ["/assets/lapedrera1.jpg", "/assets/lapedrera2.jpg", "/assets/lapedrera3.jpg", "/assets/lapedrera4.jpg"]
+  },
+  {
+    "location": "MNAC (Museu Nacional d’Art de Catalunya) + Magic Fountain of Montjuïc",
+    "neighborhood": "Montjuïc",
+    "description": "Start your visit with panoramic city views from the Palau Nacional, home to the MNAC (Museu Nacional d’Art de Catalunya), which holds a vast collection of Catalan art. As evening falls, stay for the Magic Fountain show — a colorful spectacle of light, music, and water choreography on the grand staircase below.",
+    "hours": "MNAC: 10:00 AM – 8:00 PM (Closed Mondays) · Fountain: 8:00 PM – 9:30 PM (Thu–Sat, seasonal)",
+    "duration": "2 to 3 hours",
+    "cost": "Fountain: Free · MNAC: €12 (Free Sat after 3 PM & first Sunday of the month)",
+    "notes": [
+      "Visit MNAC in the late afternoon for smaller crowds, then stay for the fountain show.",
+      "Don't miss the rooftop terrace at MNAC — one of the best views in Barcelona.",
+      "Magic Fountain shows begin around sunset — check seasonal schedule online.",
+      "Best fountain views are from the Palau Nacional steps or near Plaça d'Espanya.",
+      "Arrive early to secure a good spot for photos or seating on the steps."
+    ],
+    "photos": ["/assets/mnac1.jpg", "/assets/mnac2.jpg", "/assets/magicfountain1.jpg", "/assets/magicfountain2.jpg"]
+  },
+  {
+    "location": "Mercat de la Boqueria",
+    "neighborhood": "El Raval",
+    "description": "A vibrant and historic public market just off La Rambla, La Boqueria is a feast for the senses with its colorful displays of fruits, seafood, meats, and local specialties. It's both a cultural icon and a great place to grab a snack or full meal.",
+    "hours": "8:00 AM – 8:30 PM (Closed Sundays)",
+    "duration": "30 minutes to 1 hour",
+    "cost": "Free to enter (food prices vary)",
+    "notes": [
+      "Go early to avoid crowds and see the market fully stocked.",
+      "Great place to grab fresh juice, tapas, or jamón ibérico.",
+      "Watch out for pickpockets — it’s very busy and touristy.",
+      "Avoid dining at stalls closest to the entrance — better value deeper inside.",
+      "Closed on Sundays — plan accordingly."
+    ],
+    "photos": ["/assets/boqueria1.jpg", "/assets/boqueria2.jpg", "/assets/boqueria3.jpg"]
+  },
+  {
+    "location": "Arc de Triomf + Ciutadella Park",
+    "neighborhood": "Sant Pere, Santa Caterina i la Ribera",
+    "description": "This iconic walking route begins at the red-brick Arc de Triomf — the ceremonial entrance to the 1888 World Fair — and leads into the peaceful green oasis of Ciutadella Park. It’s a perfect combination of architecture, open space, fountains, and local life in one strollable experience.",
+    "hours": "Open daily, 10:00 AM – 10:30 PM (Arc open 24h)",
+    "duration": "1 to 2 hours",
+    "cost": "Free (Zoo has separate entry)",
+    "notes": [
+      "Start at Arc de Triomf and walk down the palm-lined promenade to enter the park.",
+      "Great spot for golden hour photos, especially at the arch and lake.",
+      "The Cascada Monumental fountain is a must-see — inspired partly by Rome’s Trevi Fountain."
+    ],
+    "photos": ["/assets/arcdetriomf1.jpg", "/assets/ciutadella1.jpg", "/assets/ciutadella2.jpg"]
+  },
+  {
+    "location": "Gothic Quarter (Barri Gòtic)",
+    "neighborhood": "Gothic Quarter",
+    "description": "The heart of Barcelona’s old city, the Gothic Quarter is a maze of narrow medieval streets filled with hidden plazas, Roman ruins, Gothic churches, shops, and tapas bars. It’s one of the most atmospheric and historically rich areas of the city.",
+    "hours": "Open 24 hours",
+    "duration": "1.5 to 2 hours (or longer if exploring in depth)",
+    "cost": "Free (some attractions may charge entry)",
+    "notes": [
+      "Wander aimlessly — getting lost is part of the charm.",
+      "Visit Plaça Reial, The World Begins With Every Kiss Mural, Barcelona Cathedral, Pont del Bisbe, and the Roman columns on Carrer del Paradís.",
+      "Arrive early in the morning or late afternoon for quieter streets and better light.",
+      "Great area for photography, tapas, and souvenir shopping."
+    ],
+    "photos": [
+      "/assets/gothic1.jpg",
+      "/assets/gothic2.jpg",
+      "/assets/gothic3.jpg",
+      "/assets/gothic4.jpg",
+      "/assets/gothic5.jpg"
+    ]
+  },
+  {
+    "location": "Picasso Museum (Museu Picasso)",
+    "neighborhood": "El Born",
+    "description": "Home to one of the most extensive collections of Pablo Picasso’s early works, the museum is set in five adjoining medieval palaces in the heart of El Born. It offers a unique look into the artist’s formative years and evolution toward cubism.",
+    "hours": "Tuesday to Sunday, 9:00 AM – 7:00 PM (Closed Mondays)",
+    "duration": "1 to 1.5 hours",
+    "cost": "€12 (Free Thursdays after 5 PM and first Sunday of each month)",
+    "notes": [
+      "Focuses on Picasso’s early work, including sketches, portraits, and his Blue Period.",
+      "The building itself is worth exploring — five interconnected medieval mansions.",
+      "Pre-book your ticket online — it’s one of Barcelona’s busiest museums.",
+      "Located in El Born, so it's easy to combine with lunch or tapas nearby.",
+      "Don’t expect Guernica — that’s in Madrid."
+    ],
+    "photos": ["/assets/picasso1.jpg", "/assets/picasso2.jpg"]
+  },
+  {
+    "location": "Montjuïc Castle",
+    "neighborhood": "Montjuïc",
+    "description": "A historic 17th-century military fortress perched atop Montjuïc Hill, offering panoramic views of Barcelona’s coastline, city, and harbor. The castle has served as a defensive stronghold, prison, and military museum — and now stands as a scenic and peaceful viewpoint.",
+    "hours": "10:00 AM – 8:00 PM (Last entry at 7:30 PM)",
+    "duration": "1 to 1.5 hours",
+    "cost": "€9 (Free on Sundays after 3 PM and first Sunday of the month)",
+    "notes": [
+      "Ride the Montjuïc cable car for a scenic journey up to the castle entrance.",
+      "The best views are from the ramparts — you can see the entire coastline.",
+      "Informational exhibits inside explain the castle’s military and political history.",
+      "Great combined with a visit to MNAC or Magic Fountain before or after.",
+      "Bring water — there’s not much shade and limited refreshments at the top."
+    ],
+    "photos": ["/assets/montjuiccastle1.jpg"]
+  },
+  {
+    "location": "Pacha Barcelona",
+    "neighborhood": "Barceloneta / Port Olímpic",
+    "description": "A world-renowned nightclub located right on the beach, Pacha Barcelona blends Mediterranean luxury with international DJ sets and a lively crowd. Known for its open-air terrace, sea views, and themed nights, it offers an unforgettable European nightlife experience.",
+    "hours": "Thursday to Sunday, 12:00 AM – 6:00 AM",
+    "duration": "2 to 4 hours (or until close)",
+    "cost": "Cover: €20–€30 (includes 1 drink)",
+    "notes": [
+      "Pacha enforces a smart casual dress code.",
+      "Arrive before 1:00 AM to avoid long lines and higher entry fees.",
+      "Popular with international tourists.",
+      "The club has multiple rooms with different music styles (house, reggaeton, electronic)."
+    ],
+    "photos": ["/assets/pacha1.jpg", "/assets/pacha2.jpg"]
+  }
+]

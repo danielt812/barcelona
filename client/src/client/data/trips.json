@@ -1,0 +1,99 @@
+[
+  {
+    "destination": "Montserrat",
+    "description": "A stunning mountain retreat known for its jagged peaks, the Benedictine monastery, and the Black Madonna. Great for spiritual visits and short hikes.",
+    "distanceFromBarcelona": "1 hour by train",
+    "recommendedDuration": "Half-day to full day",
+    "travelOptions": ["Train + Cable Car", "Car", "Tour Bus"],
+    "highlights": ["Montserrat Monastery", "Black Madonna statue", "Montserrat Museum", "Sant Jeroni hike"],
+    "notes": [
+      "Train departs from Plaça Espanya station.",
+      "Cable car offers scenic ascent — avoid if afraid of heights.",
+      "Arrive early to beat the crowds and fog."
+    ],
+    "photos": [
+      "/assets/montserrat1.jpg",
+      "/assets/montserrat2.jpg",
+      "/assets/montserrat3.jpg",
+      "/assets/montserrat4.jpg"
+    ]
+  },
+  {
+    "destination": "Tarragona",
+    "description": "An ancient Roman city by the sea featuring well-preserved ruins, sandy beaches, and a charming old town.",
+    "distanceFromBarcelona": "1 hour by train",
+    "recommendedDuration": "Full day",
+    "travelOptions": ["Train", "Car"],
+    "highlights": [
+      "Roman amphitheater by the sea",
+      "Tarragona Cathedral",
+      "Old town and Mediterranean balcony",
+      "National Archaeological Museum"
+    ],
+    "notes": [
+      "Wear walking shoes — many cobblestone streets and elevation changes.",
+      "Museum pass grants access to multiple Roman sites.",
+      "Great for history lovers and photographers."
+    ],
+    "photos": ["/assets/tarragona1.jpg", "/assets/tarragona2.jpg"]
+  },
+  {
+    "destination": "Girona",
+    "description": "A medieval city with a beautifully preserved Jewish quarter, Game of Thrones filming locations, and ancient walls you can walk.",
+    "distanceFromBarcelona": "40 minutes by high-speed train",
+    "recommendedDuration": "Full day",
+    "travelOptions": ["Train", "Car"],
+    "highlights": [
+      "Girona Cathedral",
+      "Jewish Quarter (El Call)",
+      "City walls walk",
+      "Onyar River and colorful houses"
+    ],
+    "notes": [
+      "Buy AVE tickets in advance to get a good price.",
+      "Popular day trip — can get crowded midday.",
+      "Combine with Figueres for Dali Museum if staying overnight."
+    ],
+    "photos": ["/assets/girona1.jpg", "/assets/girona2.jpg", "/assets/girona3.jpg"]
+  },
+  {
+    "destination": "Tossa de Mar",
+    "description": "A postcard-perfect Costa Brava town with a medieval walled fortress on the beach, crystal-clear waters, and a relaxed vibe.",
+    "distanceFromBarcelona": "1.5–2 hours by bus or car",
+    "recommendedDuration": "Full day",
+    "travelOptions": ["Bus", "Car"],
+    "highlights": [
+      "Tossa de Mar Castle and walls",
+      "Platja Gran beach",
+      "Charming old town streets",
+      "Clifftop hiking trails"
+    ],
+    "notes": [
+      "Go early in summer — beach gets packed.",
+      "Great combination of beach and history.",
+      "Good spot for lunch and souvenir shopping."
+    ],
+    "photos": ["/assets/tossa1.jpg", "/assets/tossa2.jpg"]
+  },
+  {
+    "destination": "Calella de Palafrugell + Llafranc",
+    "description": "Two charming, neighboring Costa Brava villages known for their whitewashed houses, crystal-clear coves, and relaxing seaside atmosphere. Connected by the scenic Camí de Ronda coastal trail, they offer a perfect blend of beach, nature, and Catalan charm.",
+    "distanceFromBarcelona": "2.25 hours by bus (with transfer) or 2 hours by car",
+    "recommendedDuration": "Full day or overnight",
+    "travelOptions": ["Bus (to Palafrugell + local bus)", "Car"],
+    "highlights": [
+      "Cala El Golfet beach",
+      "Camí de Ronda trail between Calella and Llafranc",
+      "Cap Roig Botanic Garden",
+      "Platja de Llafranc and its quiet bay",
+      "Scenic seaside restaurants and cafes"
+    ],
+    "notes": [
+      "Requires a transfer in Palafrugell if coming by bus.",
+      "Quiet, upscale, and less touristy than other Costa Brava towns.",
+      "Ideal for couples, photographers, and relaxed travelers.",
+      "Great area to stay overnight if you want peace and views."
+    ],
+    "photos": ["/assets/calella1.jpg", "/assets/llafranc1.jpg"]
+  }
+]

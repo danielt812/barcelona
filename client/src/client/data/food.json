@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Paella",
+    "description": "A fragrant rice‑based dish from Valencia, often topped with seafood like shrimp, squid, mussels, and flavored with paprika, saffron, stock, garlic, tomatoes, and wine.",
+    "image": "/assets/paella.jpg",
+    "type": "food",
+    "origin": "Valencia, Spain",
+    "whenToEat": "Lunch / Dinner",
+    "servedAt": ["Specialty restaurants", "Seaside eateries"],
+    "notes": [
+      "Seafood paella is the most iconic, but you can also get vegetarian or mixed versions.",
+      "Often cooked for large groups—best shared."
+    ],
+    "vegetarian": false
+  },
+  {
+    "name": "Croquetas",
+    "description": "Creamy breadcrumbs‑coated bites made with béchamel mixed with ham, potato, or shrimp—served as tapas or larger rations.",
+    "image": "/assets/croquetas.jpg",
+    "type": "food",
+    "origin": "Spanish (common throughout Spain)",
+    "whenToEat": "Tapas / Appetizer",
+    "servedAt": ["Tapas bars", "Casual restaurants"],
+    "notes": [
+      "Ham croquetas are the classic; try shrimp or mushroom for variety.",
+      "They’re delicious when freshly fried and still creamy inside."
+    ],
+    "vegetarian": false
+  },
+  {
+    "name": "Fideuà",
+    "description": "A seafood dish similar to paella, but made with short vermicelli-like noodles instead of rice. Typically cooked in a wide pan with cuttlefish, shrimp, mussels, and squid ink or fish stock.",
+    "image": "/assets/fideua.jpg",
+    "type": "food",
+    "origin": "Valencia, Spain",
+    "whenToEat": "Lunch / Dinner",
+    "servedAt": ["Seaside restaurants", "Traditional Catalan eateries"],
+    "notes": [
+      "Best enjoyed freshly made near the coast.",
+      "Often served with a side of allioli (garlic mayo).",
+      "Can be black (with squid ink) or golden depending on region."
+    ],
+    "vegetarian": false
+  },
+  {
+    "name": "Patatas Bravas",
+    "description": "Fried potato cubes topped with spicy bravas tomato sauce and aioli—crispy, fluffy, and umami‑packed.",
+    "image": "/assets/patatasbravas.jpg",
+    "type": "food",
+    "origin": "Spanish (common in Catalonia)",
+    "whenToEat": "Tapas / Appetizer",
+    "servedAt": ["Tapas bars", "Casual restaurants"],
+    "notes": [
+      "Each region (and even restaurant) makes the sauce differently.",
+      "Often served as a shareable snack with drinks."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Esqueixada de Bacalao",
+    "description": "A refreshing Catalan salad made with shredded salt cod, tomatoes, onions, olives, and drizzled with olive oil. Often garnished with red or green peppers and sometimes hard-boiled egg.",
+    "image": "/assets/esqueixadadebacalao.jpg",
+    "type": "food",
+    "origin": "Catalonia, Spain",
+    "whenToEat": "Lunch / Starter",
+    "servedAt": ["Tapas bars", "Traditional Catalan restaurants", "Summer cafés"],
+    "notes": [
+      "Name comes from the Catalan word 'esqueixar', meaning 'to tear by hand'.",
+      "Usually served cold — ideal for hot weather.",
+      "Pairs well with crusty bread or olives.",
+      "Traditionally made with salt cod (bacalao) that has been soaked and shredded."
+    ],
+    "vegetarian": false
+  },
+  {
+    "name": "Jamón Ibérico",
+    "description": "Thinly‑sliced, dry‑cured Iberian ham from acorn‑fed black pigs—served as a classic charcuterie staple.",
+    "image": "/assets/jamoniberico.jpg",
+    "type": "food",
+    "origin": "Iberian Peninsula, Spain",
+    "whenToEat": "Tapas / Starter",
+    "servedAt": ["Tapas bars", "High-end restaurants"],
+    "notes": ["Often served with bread or olives.", "Look for ‘pata negra’ (pure Iberico) for maximum quality."],
+    "vegetarian": false
+  },
+  {
+    "name": "Bomba",
+    "description": "A Barceloneta specialty: deep‑fried potato and meat ball, often spicy—and perfect for tapas.",
+    "image": "/assets/bomba.jpg",
+    "type": "food",
+    "origin": "Catalan (Barceloneta)",
+    "whenToEat": "Tapas",
+    "servedAt": ["Tapas bars", "Local markets"],
+    "notes": ["Spicy sauce inside is a signature element.", "Serve with aioli to balance heat."],
+    "vegetarian": false
+  },
+  {
+    "name": "Gazpacho",
+    "description": "An ice‑cold soup made with blended tomatoes, peppers, garlic, vinegar, olive oil—and sometimes bread—for a refreshing summer starter.",
+    "image": "/assets/gazpacho.jpg",
+    "type": "food",
+    "origin": "Andalusia, Spain",
+    "whenToEat": "Start / Lunch",
+    "servedAt": ["Tapas bars", "Cafes"],
+    "notes": ["Best served ice-cold in summer.", "Can be garnished with chopped veggies or croutons."],
+    "vegetarian": true
+  },
+  {
+    "name": "Escalivada",
+    "description": "A Catalan roasted vegetable dish with eggplant, bell peppers, and onions drizzled in olive oil—served warm or cold with bread.",
+    "image": "/assets/escalivada.jpg",
+    "type": "food",
+    "origin": "Catalonia, Spain",
+    "whenToEat": "Tapas / Side dish",
+    "servedAt": ["Tapas bars", "Casual restaurants"],
+    "notes": ["Simple but flavorful — highlight seasonal produce.", "Pairs well with grilled fish or meat."],
+    "vegetarian": true
+  },
+  {
+    "name": "Spanish Cheese Platter",
+    "description": "A selection of Spanish cheeses—Manchego, Idiazábal, Mahón, Roncal—served with accompaniments like nuts or honey.",
+    "image": "/assets/spanishcheese.jpg",
+    "type": "food",
+    "origin": "Spain",
+    "whenToEat": "Starter / Tapas",
+    "servedAt": ["Tapas bars", "Cheese shops"],
+    "notes": ["Ask for local artisan cheeses for best flavor.", "Pair with sweet wine or honey for contrast."],
+    "vegetarian": true
+  },
+  {
+    "name": "Pa amb Tomaquet",
+    "description": "Toasted bread rubbed with garlic and ripe tomato, drizzled with olive oil and salt; a simple Catalan classic.",
+    "image": "/assets/paambtomquet.jpg",
+    "type": "food",
+    "origin": "Catalonia, Spain",
+    "whenToEat": "Side / Tapas",
+    "servedAt": ["Tapas bars", "Breakfast cafes"],
+    "notes": ["Adjust garlic and tomato to taste.", "Great accompaniment to any meal."],
+    "vegetarian": true
+  },
+  {
+    "name": "Padrón Peppers",
+    "description": "Small green peppers blistered in oil and sprinkled with salt—most are mild, but occasionally one surprises with heat.",
+    "image": "/assets/padronpeppers.jpg",
+    "type": "food",
+    "origin": "Galicia, Spain",
+    "whenToEat": "Tapas / Snack",
+    "servedAt": ["Tapas bars", "Casual restaurants"],
+    "notes": ["Fun to eat — you never know which will be spicy!", "Best when blistered and slightly charred."],
+    "vegetarian": true
+  },
+  {
+    "name": "Esqueixada",
+    "description": "A Catalan salt‑cod salad torn by hand, mixed with tomatoes, onions, olives, and olive oil—light and zesty.",
+    "image": "/assets/esqueixada.jpg",
+    "type": "food",
+    "origin": "Catalonia, Spain",
+    "whenToEat": "Tapas / Starter",
+    "servedAt": ["Tapas bars", "Casual restaurants"],
+    "notes": ["Very light and fresh—great on hot days.", "Traditionally eaten with bread or potatoes."],
+    "vegetarian": false
+  },
+  {
+    "name": "Tortilla de Patatas",
+    "description": "A thick Spanish omelet made with potatoes (and sometimes onions)—comforting and a common staple across Spain.",
+    "image": "/assets/tortilladepatatas.jpg",
+    "type": "food",
+    "origin": "Spanish",
+    "whenToEat": "Breakfast / Brunch / Tapas",
+    "servedAt": ["Tapas bars", "Cafes"],
+    "notes": ["Can be served warm or at room temperature.", "Some regions add onion and others don’t — try both!"],
+    "vegetarian": true
+  },
+  {
+    "name": "Arròs Negre",
+    "description": "A savory black rice dish cooked with squid or cuttlefish and colored with their ink, giving it a deep umami flavor and striking appearance.",
+    "image": "/assets/arrosnegre.jpg",
+    "type": "food",
+    "origin": "Catalonia and Valencia, Spain",
+    "whenToEat": "Lunch or dinner",
+    "servedAt": ["Seafood restaurants", "Marisquerías", "Traditional Catalan restaurants"],
+    "notes": [
+      "Often garnished with alioli (garlic mayonnaise) on top or on the side.",
+      "Best enjoyed fresh with a glass of white wine or cava.",
+      "Not to be confused with paella, though it's similar in preparation."
+    ],
+    "vegetarian": false
+  },
+  {
+    "name": "Chipirones",
+    "description": "Small squid, typically grilled or fried, served whole and often dressed simply with olive oil, garlic, and parsley. A popular tapa or seafood dish in coastal Spain.",
+    "image": "/assets/chipirones.jpg",
+    "type": "food",
+    "origin": "Spanish coastal regions",
+    "whenToEat": "Lunch / Dinner",
+    "servedAt": ["Seafood restaurants", "Tapas bars", "Beachside chiringuitos"],
+    "notes": [
+      "Can be served a la plancha (grilled) or fritos (fried).",
+      "Freshness is key — best near the coast.",
+      "Sometimes served with lemon or a side of alioli."
+    ],
+    "vegetarian": false
+  },
+  {
+    "name": "Chorizo",
+    "description": "A cured or semi-cured pork sausage seasoned with smoked paprika and garlic, known for its deep red color and bold, smoky flavor. Commonly sliced and served on its own or incorporated into a variety of Spanish dishes.",
+    "image": "/assets/chorizo.jpg",
+    "type": "food",
+    "origin": "Spain",
+    "whenToEat": "Any meal; common in tapas and stews",
+    "servedAt": ["Tapas bars", "Charcuterie shops", "Casual restaurants"],
+    "notes": [
+      "Available in spicy (picante) and mild (dulce) varieties.",
+      "Can be eaten cured (like salami) or cooked in dishes like fabada and tortilla.",
+      "Pairs well with Manchego cheese and red wine."
+    ],
+    "vegetarian": false
+  },
+  {
+    "name": "Crema Catalana",
+    "description": "A traditional Catalan dessert similar to crème brûlée, made with milk, egg yolks, sugar, and flavored with lemon zest and cinnamon. It features a caramelized sugar crust on top.",
+    "image": "/assets/cremacatalana.jpg",
+    "type": "dessert",
+    "origin": "Catalonia, Spain",
+    "whenToEat": "Dessert",
+    "servedAt": ["Traditional Catalan restaurants", "Tapas bars", "Dessert cafés"],
+    "notes": [
+      "Usually served cold with the sugar crust freshly torched.",
+      "Lighter than French crème brûlée due to milk instead of cream.",
+      "Often eaten on Saint Joseph’s Day (March 19) in Catalonia."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Churros",
+    "description": "Fried dough pastries, often sprinkled with sugar and served with a thick hot chocolate for dipping. Popular as a breakfast or late-night treat.",
+    "image": "/assets/churros.jpg",
+    "type": "food",
+    "origin": "Spain",
+    "whenToEat": "Breakfast, dessert, or late-night snack",
+    "servedAt": ["Churrerías", "Cafés", "Street vendors"],
+    "notes": [
+      "Traditionally enjoyed with thick Spanish hot chocolate.",
+      "Best eaten fresh and warm.",
+      "Churros in Barcelona tend to be thinner and crispier compared to other regions.",
+      "Often enjoyed after a night out, especially on weekends."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Mel i Mató",
+    "description": "A simple Catalan dessert made of soft unsalted cheese (mató) topped with honey. Light, creamy, and traditional.",
+    "image": "/assets/melimato.jpg",
+    "type": "dessert",
+    "origin": "Catalonia, Spain",
+    "whenToEat": "Dessert",
+    "servedAt": ["Traditional Catalan restaurants", "Home kitchens"],
+    "notes": [
+      "Often served chilled with fresh local honey.",
+      "Mató cheese is similar to ricotta but lighter and less salty.",
+      "Great after a rich meal — light and not overly sweet."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Flan",
+    "description": "A caramel custard dessert made with eggs, milk, and sugar, topped with a layer of soft caramel. Found throughout Spain.",
+    "image": "/assets/flan.jpg",
+    "type": "dessert",
+    "origin": "Spain",
+    "whenToEat": "Dessert",
+    "servedAt": ["Traditional restaurants", "Tapas bars", "Cafés"],
+    "notes": [
+      "Sometimes infused with citrus zest or vanilla.",
+      "Served chilled, often with whipped cream or a cherry.",
+      "One of the most common desserts in Spain — classic and comforting."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Ensaimada",
+    "description": "A soft, coiled pastry dusted with powdered sugar, originally from Mallorca but found in Catalonia. Often filled with cream, custard, or pumpkin jam.",
+    "image": "/assets/ensaimada.jpg",
+    "type": "dessert",
+    "origin": "Balearic Islands (popular in Catalonia)",
+    "whenToEat": "Breakfast / Dessert",
+    "servedAt": ["Bakeries", "Breakfast cafés", "Pastry shops"],
+    "notes": [
+      "Best enjoyed fresh in the morning.",
+      "Classic version is plain, but fillings are popular too.",
+      "Pairs wonderfully with coffee or hot chocolate."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Cava",
+    "description": "A sparkling wine from Catalonia, made using traditional methods similar to Champagne. It is known for its fine bubbles and balanced flavor, ranging from dry to sweet.",
+    "image": "/assets/cava.jpg",
+    "type": "drink",
+    "origin": "Catalonia, Spain",
+    "whenToEat": "Aperitif, celebrations, or with meals",
+    "servedAt": ["Wine bars", "Tapas bars", "Fine dining restaurants"],
+    "notes": [
+      "Often served at celebrations and with tapas.",
+      "Brut Nature is the driest type — popular among locals.",
+      "Pairs well with seafood, jamón, and salty snacks.",
+      "Made primarily with Macabeo, Parellada, and Xarel·lo grapes."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Sangria",
+    "description": "A popular Spanish punch made with red wine, chopped fruit (like oranges and apples), orange juice, and a splash of brandy or soda water.",
+    "image": "/assets/sangria.jpg",
+    "type": "drink",
+    "origin": "Spain",
+    "whenToEat": "Afternoon or evening (especially summer)",
+    "servedAt": ["Bars", "Restaurants", "Beachfront cafes"],
+    "notes": [
+      "Variations include white sangria (sangría blanca) made with white wine.",
+      "Often served chilled in pitchers for groups.",
+      "Tourist favorite, though locals may opt for simpler drinks like tinto de verano."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Orxata (Horchata de Chufa)",
+    "description": "A sweet, milky drink made from soaked and ground tiger nuts, served chilled. Especially popular in Valencia and Catalonia during summer.",
+    "image": "/assets/orxata.jpg",
+    "type": "drink",
+    "origin": "Valencia, Spain",
+    "whenToEat": "Snack or afternoon refreshment",
+    "servedAt": ["Orxateries", "Pastry shops", "Summer cafes"],
+    "notes": [
+      "Often paired with fartons (sugar-glazed pastry sticks).",
+      "Naturally dairy-free and gluten-free.",
+      "Should be consumed fresh — it spoils quickly without refrigeration."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Clara",
+    "description": "A refreshing mix of beer and lemon soda (like Fanta Limón), popular as a light, summery alternative to straight beer.",
+    "image": "/assets/clara.jpg",
+    "type": "drink",
+    "origin": "Spain",
+    "whenToEat": "Lunch or afternoon drink",
+    "servedAt": ["Bars", "Terraces", "Beach bars"],
+    "notes": [
+      "Known as a 'shandy' in English-speaking countries.",
+      "Preferred on hot days or with tapas.",
+      "Low alcohol content makes it a popular midday drink."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Carajillo",
+    "description": "A bold mix of espresso coffee and liquor (typically brandy or rum), served hot. A classic pick-me-up drink in Spain.",
+    "image": "/assets/carajillo.jpg",
+    "type": "drink",
+    "origin": "Spain",
+    "whenToEat": "After meals or as a digestif",
+    "servedAt": ["Cafes", "Bars", "Restaurants"],
+    "notes": [
+      "Sometimes flamed with sugar and lemon peel for extra flavor.",
+      "Common after lunch or dinner.",
+      "A Spanish twist on coffee with alcohol — not to be confused with Irish coffee."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Vermouth (Vermut)",
+    "description": "An aromatized, fortified wine infused with herbs and spices. Typically served over ice with an olive or orange slice, often with a splash of soda.",
+    "image": "/assets/vermouth.jpg",
+    "type": "drink",
+    "origin": "Catalonia, Spain (also popular in Italy)",
+    "whenToEat": "Aperitif before lunch",
+    "servedAt": ["Vermuterías", "Tapas bars", "Traditional bodegas"],
+    "notes": [
+      "Weekend vermouth hour is a Barcelona tradition.",
+      "Pairs well with olives, anchovies, and chips.",
+      "Homemade house blends vary by bar."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Jerez Cocktail (Sherry Cocktail)",
+    "description": "A cocktail made from dry or sweet sherry (Jerez wine), often mixed with orange bitters, citrus zest, or other ingredients to enhance its nutty character.",
+    "image": "/assets/jerezcocktail.jpg",
+    "type": "drink",
+    "origin": "Andalusia, Spain",
+    "whenToEat": "Aperitif or evening cocktail",
+    "servedAt": ["Cocktail bars", "Upscale restaurants", "Wine bars"],
+    "notes": [
+      "Dry fino or amontillado sherry is used for crisp versions.",
+      "Sweet oloroso or cream sherry for dessert-style cocktails.",
+      "Jerez is the Spanish name for sherry and a wine region."
+    ],
+    "vegetarian": true
+  },
+  {
+    "name": "Orujo",
+    "description": "A strong pomace brandy made by distilling grape skins, stems, and seeds left over from winemaking. Served as a digestif, often chilled.",
+    "image": "/assets/orujo.jpg",
+    "type": "drink",
+    "origin": "Galicia, Spain",
+    "whenToEat": "After meals (digestif)",
+    "servedAt": ["Traditional taverns", "Rural restaurants", "Festivals"],
+    "notes": [
+      "Sometimes infused with herbs (orujo de hierbas) or cream (crema de orujo).",
+      "Can be over 40% alcohol — drink in moderation.",
+      "Considered the Galician cousin to Italian grappa."
+    ],
+    "vegetarian": true
+  }
+]
