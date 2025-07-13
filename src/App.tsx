@@ -1,11 +1,10 @@
-import "./App.scss";
+import { Navigate } from "react-router-dom";
 
-function App() {
+export default function App() {
   return (
-    <>
-      <div className="text-xl">Hello World2</div>
-    </>
+    <Navigate
+      to="/explore"
+      replace
+    />
   );
 }
-
-export default App;
